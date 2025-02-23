@@ -9,6 +9,7 @@
 | 개발 기간(예정) | 2025.02.17~2025.03.02 |
 | 개발 기록 | 2025.02.17: Figma로 UI 디자인 중. |  
 |          | 2025.02.20: Figma UI 디자인 수정.
+|          | 2025.02.22~23: Vue.js 초기 설정, 컴포넌트 등 구성.
 
 - **2025.02.17 Figma UI** 
 ![Figma20250217](https://github.com/teumYee/MyPortFolio/blob/main/Figma20250217.png)
