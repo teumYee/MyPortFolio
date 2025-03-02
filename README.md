@@ -20,7 +20,7 @@
 ![Figma20250220](https://github.com/teumYee/MyPortFolio/blob/main/Figma20250220.png)
 
 - **2025.03.02 Figma UI**
-[](url)
+![Figma20250302](https://github.com/teumYee/MyPortFolio/blob/main/Figma20250302.png)
 
 ## 🧐 페이지 구성
 - **컨셉**: 심플한 게임 UI 디자인처럼 구성해보았습니다.
