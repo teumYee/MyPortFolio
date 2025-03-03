@@ -25,6 +25,8 @@
 
 ## 🧐 페이지 구성
 
+**최종본**
+
 ![웹페이지](https://github.com/teumYee/MyPortFolio/blob/main/%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80.gif)
 
 - **컨셉**: 심플한 게임 UI 디자인처럼 구성해보았습니다.
